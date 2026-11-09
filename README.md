@@ -1,3 +1,5 @@
+> This is the `b1ue13e/LoveACE` fork of [Sibuxiangx/LoveACE](https://github.com/Sibuxiangx/LoveACE). [English introduction](README.en.md) · 下方保留上游中文说明。
+
 <p align="center">
   <img src="assets/logo.png" width="160" alt="LoveACE 标志" />
 </p>
